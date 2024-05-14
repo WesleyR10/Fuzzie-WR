@@ -1,36 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Fuzzie 
 
-## Getting Started
+![Fuzzie](https://github.com/WesleyR10/Fuzzie-WR/assets/115756312/64c468e1-cf91-4fee-8553-db33b1630025)
 
-First, run the development server:
+Fuzzie é uma plataforma de automação e integração para B2C SaaS que permite aos usuários conectar suas contas do Google Drive, Slack, Discord e Notion para criar fluxos de automação personalizados. Com uma interface intuitiva e recursos poderosos, Fuzzie simplifica a criação de mensagens e notificações personalizadas em várias plataformas simultaneamente.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Funcionalidades Principais
+* **Conexão com Google Drive:** Integre facilmente o Google Drive à sua conta Fuzzie para acessar e gerenciar arquivos diretamente na plataforma.
+* **Integração com Slack e Discord:** Envie notificações e mensagens personalizadas para canais do Slack e servidores do Discord.
+* **Integração com Notion:** Crie entradas em um banco de dados do Notion diretamente através de automações criadas no Fuzzie.
+* **Criação de Fluxos de Automação:** Desenvolva sequências de ações que são acionadas por eventos específicos, permitindo a automação de tarefas complexas.
+* **Pagamentos com Stripe:** Aceite assinaturas mensais e gerencie pagamentos com base nos créditos consumidos.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Interface e Experiência do Usuário
+* **Interface Intuitiva:** Uma interface redesenhada e intuitiva que facilita a criação e gerenciamento de automações.
+* **Construtor de Nós de Arrastar e Soltar:** Crie fluxos de automação arrastando e soltando elementos em uma tela infinita.
+* **Mapa Miniatura:** Visualize todos os nós do seu fluxo de automação em um mapa para uma melhor compreensão.
+* **Modo Claro e Escuro:** Escolha entre os modos claro e escuro para uma experiência visual personalizada.
+* **Página Inicial Funcional:** Uma página inicial lindamente projetada que oferece uma visão geral das principais funcionalidades do Fuzzie.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Contribuição
+Você pode contribuir para o Fuzzie abrindo issues, enviando pull requests e melhorando a documentação. Sua contribuição é muito bem-vinda!
